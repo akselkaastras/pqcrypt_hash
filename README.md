@@ -20,7 +20,7 @@ To change specific parameters for the one-time signatures or mss, simply go to /
 
 ## License
    
-This library is licensed under the GPLv3 License.
+This library is licensed under the Apache License 2.0.
 
 # References
 
