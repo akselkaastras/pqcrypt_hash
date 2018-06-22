@@ -10,11 +10,11 @@ Just type `make` at the root directory for the MSS program. The executable file 
 
 For LD-OTS type `make lamport` at the root directory. The executable file lamport will be generated inside *bin* directory.
 
-For LD-OTS type `make merkle` at the root directory. The executable file merkle will be generated inside *bin* directory.
+For Merkles OTS type `make merkle` at the root directory. The executable file merkle will be generated inside *bin* directory.
 
-For LD-OTS type `make winternitz` at the root directory. The executable file winternitz will be generated inside *bin* directory.
+For W-OTS type `make winternitz` at the root directory. The executable file winternitz will be generated inside *bin* directory.
 
-For LD-OTS type `make gmr` at the root directory. The executable file gmr will be generated inside *bin* directory.
+For GMR type `make gmr` at the root directory. The executable file gmr will be generated inside *bin* directory.
 
 To change specific parameters for the one-time signatures or mss, simply go to /include and find the corresponding .h header file. Here you can edit securityparameters and tree heights.
 
